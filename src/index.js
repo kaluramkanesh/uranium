@@ -1,7 +1,8 @@
 const express = require('express');
 var bodyParser = require('body-parser');
 
-const route = require('./routes/route.js');
+// const route = require('./routes/route.js');
+const route=require('./routes/kaluram.js');
 
 const app = express();
 
